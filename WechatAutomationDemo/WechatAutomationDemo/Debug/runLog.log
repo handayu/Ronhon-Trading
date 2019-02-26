@@ -1,0 +1,111 @@
+2019-02-26 13:51:47 412   CTraderSpi::ReqUserLogout	 [Info] 登陆请求成功
+2019-02-26 13:51:47 412   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:47 412   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:47 412   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:47 412   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:47 428   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:47 428   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:48 192   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:48 192   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:48 192   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:48 192   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:48 192   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:48 192   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:48 192   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:49 237   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:49 237   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:49 237   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:49 237   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:49 237   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:49 237   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:49 237   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:49 705   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:49 705   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:49 705   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:49 705   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:49 721   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:49 721   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:49 721   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:49 879   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:49 879   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:49 879   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:49 879   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:49 879   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:49 879   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:49 879   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:50 082   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:50 082   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:50 082   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:50 082   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:50 082   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:50 082   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:50 082   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:50 851   CTraderSpi::ReqQryTradingAccount	 [Info] m_nRequestId = 19
+2019-02-26 13:51:50 851   CTraderSpi::RspQryTradingAccount	 [Info] BrokerID, AccountID, PreMortgage, PreCredit, PreDeposit, PreBalance, PreMargin, InterestBase, Interest, Deposit, Withdraw, FrozenMargin, FrozenCash, FrozenCommission, CurrMargin, CashIn, Commission, CloseProfit, PositionProfit, Balance, Available, WithdrawQuota, Reserve, TradingDay,SettlementID, Credit, Mortgage, ExchangeMargin, DeliveryMargin, ExchangeDeliveryMargin
+2019-02-26 13:51:50 851   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:50 851   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:50 851   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:50 867   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:50 867   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:50 867   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:52 412   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:52 412   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:52 412   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:52 412   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:52 412   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:52 412   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:53 067   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:53 067   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:53 067   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:53 067   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:53 067   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:53 067   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:53 504   CTraderSpi::ReqQryInvestorPosition	 [Info] Send...
+2019-02-26 13:51:53 504   CTraderSpi::ReqQryInvestorPosition	 [Info] InstrumentID,BrokerID,InvestorID,PosiDirection,HedgeFlag,PositionDate,YdPosition,Position,LongFrozen,ShortFrozen,LongFrozenAmount,ShortFrozenAmount,OpenVolume,CloseVolume,OpenAmount,CloseAmount,PositionCost,PreMargin,UseMargin,FrozenMargin,FrozenCash,FrozenCommission,CashIn,Commission,CloseProfit,PositionProfit,PreSettlementPrice,SettlementPrice,TradingDay,SettlementID,OpenCost,ExchangeMargin,CombPosition,CombLongFrozen,CombShortFrozen,CloseProfitByDate,CloseProfitByTrade,TodayPosition,MarginRateByMoney,MarginRateByVolume
+2019-02-26 13:51:54 269   CTraderSpi::OnRspQryInvestorPositionCombineDetail	 [Info] BrokerID,CombInstrumentID,ComTradeID,Direction,ExchangeID,ExchMargin,HedgeFlag,InstrumentID,InvestorID,LegID,LegMultiple,Margin,MarginRateByMoney,MarginRateByVolume,OpenDate,SettlementID,TotalAmt,TradeID,TradingDay
+2019-02-26 13:51:54 269   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:54 269   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:54 269   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:54 269   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:54 269   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:54 269   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:55 394   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:55 394   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:55 394   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:55 394   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:51:55 394   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:51:55 394   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:51:55 394   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:16 527   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10060
+2019-02-26 13:52:21 209   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:21 209   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:21 209   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:52:21 209   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:21 209   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:21 209   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:52:21 209   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:21 695   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:21 695   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:21 695   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:52:21 695   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:21 695   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:21 695   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:52:21 695   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:21 867   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:21 867   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:21 867   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:52:21 867   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:21 867   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:21 867   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:52:21 867   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:22 023   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:22 023   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:22 023   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 8193
+2019-02-26 13:52:22 023   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:22 023   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:22 179   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:22 179   CTraderSpi::OnFrontDisconnected	 [Info] Reason: 10038
+2019-02-26 13:52:22 350   CTraderSpi::ReqUserLogin	 [Info] 登陆请求成功
+2019-02-26 13:52:22 491   CTraderSpi::ReqUserLogout	 [Info] 登陆请求成功
+2019-02-26 13:52:22 647   CTraderSpi::ReqUserLogout	 [Info] 登陆请求成功
+2019-02-26 13:52:22 819   CTraderSpi::ReqUserLogout	 [Info] 登陆请求成功

@@ -1,0 +1,234 @@
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - [ip:192.168.30.10][mac:5E-6E-96-37-DF-BF]
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - [ip:192.168.1.122][mac:8C-EC-4B-5C-0B-AD]
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - [ip:192.168.214.1][mac:00-50-56-C0-00-01]
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - [ip:192.168.130.1][mac:00-50-56-C0-00-08]
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][   Interface] - CreateFtdcTraderApi static Current Version 27.4.1.4
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - RegisterSpi
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - RegisterFront tcp://120.26.112.186:10001
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - SubscribePrivateTopic THOST_TERT_RESTART
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - SubscribePublicTopic THOST_TERT_RESTART
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - Init -->
+[2019-02-26 13:36:05 488 1bd8] Thread(SockTranferWorkThread)[0xce8] create by thread[0x1bd8] suspend
+[2019-02-26 13:36:05 488 0ce8] [0x00572810]create THREAD[ce8:9392](SockTranferWorkThread)
+[2019-02-26 13:36:05 488 0ce8] THREAD[0xce8:9392](SockTranferWorkThread) runing
+[2019-02-26 13:36:05 488 1bd8] Thread(SockConnectWorkThread)[0x1340] create by thread[0x1bd8] suspend
+[2019-02-26 13:36:05 488 1bd8] <app>[0x00000001][    RohonApi] - Init <--
+[2019-02-26 13:36:05 488 1340] [0x00572700]create THREAD[1340:9392](SockConnectWorkThread)
+[2019-02-26 13:36:05 488 1340] THREAD[0x1340:9392](SockConnectWorkThread) runing
+[2019-02-26 13:36:26 633 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10060
+[2019-02-26 13:36:26 633 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:36:26 633 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:36:40 386 1bd8] <app>[0x00000001][    RohonApi] - ReqQryTrade
+[2019-02-26 13:36:40 386 1bd8] <error> senddata failed because error[10057]
+[2019-02-26 13:36:40 386 1bd8] 成功分配第1个定时资源组(每组256个资源)
+[2019-02-26 13:36:40 386 1bd8] <app>[0x00000001][    RohonApi] - ReqQryTrade send. [1]
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:36:40 386 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:36:40 386 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:36:40 386 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:01 522 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10060
+[2019-02-26 13:37:01 522 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:01 522 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:20 099 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:20 099 1bd8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:20 099 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:20 114 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:20 114 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:20 114 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:22 858 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:22 858 1bd8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:22 858 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:22 858 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:22 858 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:22 858 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:23 454 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:23 454 1bd8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:23 454 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:23 454 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:23 454 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:23 470 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:23 470 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:23 641 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:23 641 1bd8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:23 641 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:23 641 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:23 641 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:23 641 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:23 797 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:23 797 1bd8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:23 797 1bd8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:23 797 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk begin
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin [lhwj01] [0.0.0.0] [00-50-56-C0-00-01]
+[2019-02-26 13:37:23 797 0ce8] <error> senddata failed because error[10057]
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][    RohonApi] - ReqUserLogin send. [1]
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectOk end
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect start 10057
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect mid
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnDisConnect end
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10038
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:37:23 797 0ce8] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:37:24 798 1bd8] <app>[0x00000001][    RohonApi] - RegisterSpi
+[2019-02-26 13:37:24 798 1bd8] <app>[0x00000001][    RohonApi] - Release -->
+[2019-02-26 13:37:24 798 1bd8] <app>[0x00000001][    RohonApi] - begin Close Tcp
+[2019-02-26 13:37:24 798 1bd8] <app>[0x00000001][    RohonApi] - Close Tcp
+[2019-02-26 13:37:24 798 1bd8] <app>[0x00000001][    RohonApi] - delete Tcp
+[2019-02-26 13:37:24 798 1bd8] <app>[0x00000001][    RohonApi] - Release <--
+[2019-02-26 13:37:26 855 1bd8] thread[ce8](SockTranferWorkThread) not exit normally...,Kill it.
+[2019-02-26 13:37:26 855 1bd8] thread[ce8](SockTranferWorkThread) state=-1 WaitFor(end) return 0.
+[2019-02-26 13:37:26 855 1bd8] thread[ce8](SockTranferWorkThread) state=-1 WaitFor return 0.
+[2019-02-26 13:37:26 855 1bd8] Thread[0x1bd8] kill thread(0xce8)
+[2019-02-26 13:37:26 855 1bd8] ~MP_Thread ,addr=0x572810,id=0xce8
+[2019-02-26 13:37:28 857 1bd8] thread[1340](SockConnectWorkThread) not exit normally...,Kill it.
+[2019-02-26 13:37:28 857 1bd8] thread[1340](SockConnectWorkThread) state=-1 WaitFor(end) return 0.
+[2019-02-26 13:37:28 857 1bd8] thread[1340](SockConnectWorkThread) state=-1 WaitFor return 0.
+[2019-02-26 13:37:28 857 1bd8] Thread[0x1bd8] kill thread(0x1340)
+[2019-02-26 13:37:28 857 1bd8] ~MP_Thread ,addr=0x572700,id=0x1340
+[2019-02-26 13:37:30 860 1bd8] thread[20a8](MP_TimerThread(Rohon_TimerManager)) not exit normally...,Kill it.
+[2019-02-26 13:37:30 860 1bd8] thread[20a8](MP_TimerThread(Rohon_TimerManager)) state=-1 WaitFor(end) return 0.
+[2019-02-26 13:37:30 860 1bd8] Thread[0x1bd8] kill thread(0x20a8)
+[2019-02-26 13:37:30 860 1bd8] ~MP_Thread ,addr=0x56ca40,id=0x20a8
+[2019-02-26 13:39:02 923 274c] <app>[0x00000001][    RohonApi] - [ip:192.168.30.10][mac:5E-6E-96-37-DF-BF]
+[2019-02-26 13:39:02 923 274c] <app>[0x00000001][    RohonApi] - [ip:192.168.1.122][mac:8C-EC-4B-5C-0B-AD]
+[2019-02-26 13:39:02 923 274c] <app>[0x00000001][    RohonApi] - [ip:192.168.214.1][mac:00-50-56-C0-00-01]
+[2019-02-26 13:39:02 923 274c] <app>[0x00000001][    RohonApi] - [ip:192.168.130.1][mac:00-50-56-C0-00-08]
+[2019-02-26 13:39:02 923 274c] <app>[0x00000001][   Interface] - CreateFtdcTraderApi static Current Version 27.4.1.4
+[2019-02-26 13:39:02 923 274c] <app>[0x00000001][    RohonApi] - RegisterSpi
+[2019-02-26 13:39:02 923 274c] <app>[0x00000001][    RohonApi] - RegisterFront tcp://120.26.112.186:10001
+[2019-02-26 13:39:02 938 274c] <app>[0x00000001][    RohonApi] - SubscribePrivateTopic THOST_TERT_RESTART
+[2019-02-26 13:39:02 938 274c] <app>[0x00000001][    RohonApi] - SubscribePublicTopic THOST_TERT_RESTART
+[2019-02-26 13:39:02 938 274c] <app>[0x00000001][    RohonApi] - Init -->
+[2019-02-26 13:39:02 938 274c] Thread(SockTranferWorkThread)[0x2198] create by thread[0x274c] suspend
+[2019-02-26 13:39:02 954 274c] Thread(SockConnectWorkThread)[0x26d0] create by thread[0x274c] suspend
+[2019-02-26 13:39:02 954 274c] <app>[0x00000001][    RohonApi] - Init <--
+[2019-02-26 13:39:02 954 2198] [0x00602810]create THREAD[2198:3852](SockTranferWorkThread)
+[2019-02-26 13:39:02 954 2198] THREAD[0x2198:3852](SockTranferWorkThread) runing
+[2019-02-26 13:39:02 954 26d0] [0x00602700]create THREAD[26d0:3852](SockConnectWorkThread)
+[2019-02-26 13:39:02 954 26d0] THREAD[0x26d0:3852](SockConnectWorkThread) runing
+[2019-02-26 13:39:24 112 2198] <app>[0x00000001][  TcpHandler] - OnConnectFaild begin 10060
+[2019-02-26 13:39:24 112 2198] <app>[0x00000001][  TcpHandler] - OnConnectFaild mid
+[2019-02-26 13:39:24 112 2198] <app>[0x00000001][  TcpHandler] - OnConnectFaild end
+[2019-02-26 13:39:41 571 274c] <app>[0x00000001][    RohonApi] - RegisterSpi
+[2019-02-26 13:39:41 571 274c] <app>[0x00000001][    RohonApi] - Release -->
+[2019-02-26 13:39:41 571 274c] <app>[0x00000001][    RohonApi] - begin Close Tcp
+[2019-02-26 13:39:41 571 274c] <app>[0x00000001][    RohonApi] - Close Tcp
+[2019-02-26 13:39:41 571 274c] <app>[0x00000001][    RohonApi] - delete Tcp
+[2019-02-26 13:39:41 571 274c] <app>[0x00000001][    RohonApi] - Release <--
+[2019-02-26 13:39:43 590 274c] thread[2198](SockTranferWorkThread) not exit normally...,Kill it.
+[2019-02-26 13:39:43 590 274c] thread[2198](SockTranferWorkThread) state=-1 WaitFor(end) return 0.
+[2019-02-26 13:39:43 590 274c] thread[2198](SockTranferWorkThread) state=-1 WaitFor return 0.
+[2019-02-26 13:39:43 590 274c] Thread[0x274c] kill thread(0x2198)
+[2019-02-26 13:39:43 590 274c] ~MP_Thread ,addr=0x602810,id=0x2198
+[2019-02-26 13:39:45 599 274c] thread[26d0](SockConnectWorkThread) not exit normally...,Kill it.
+[2019-02-26 13:39:45 599 274c] thread[26d0](SockConnectWorkThread) state=-1 WaitFor(end) return 0.
+[2019-02-26 13:39:45 599 274c] thread[26d0](SockConnectWorkThread) state=-1 WaitFor return 0.
+[2019-02-26 13:39:45 599 274c] Thread[0x274c] kill thread(0x26d0)
+[2019-02-26 13:39:45 599 274c] ~MP_Thread ,addr=0x602700,id=0x26d0
+[2019-02-26 13:39:47 602 274c] thread[2240](MP_TimerThread(Rohon_TimerManager)) not exit normally...,Kill it.
+[2019-02-26 13:39:47 602 274c] thread[2240](MP_TimerThread(Rohon_TimerManager)) state=-1 WaitFor(end) return 0.
+[2019-02-26 13:39:47 602 274c] Thread[0x274c] kill thread(0x2240)
+[2019-02-26 13:39:47 602 274c] ~MP_Thread ,addr=0x5fca40,id=0x2240

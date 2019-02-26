@@ -1,0 +1,60 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: AutomationDemo - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/AutomationDemo.res" /d "NDEBUG" /d "_AFXDLL" "C:\Users\haosc\Desktop\WechatAutomationDemo\AutomationDemo.rc"" 
+Creating temporary file "C:\Users\haosc\AppData\Local\Temp\RSPACB4.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "./ThostTraderApi/" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /D "ISLIB" /Fp"Release/AutomationDemo.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Users\haosc\Desktop\WechatAutomationDemo\AutomationDemo.cpp"
+"C:\Users\haosc\Desktop\WechatAutomationDemo\AutomationDemoDlg.cpp"
+"C:\Users\haosc\Desktop\WechatAutomationDemo\ChangePasswordDlg.cpp"
+"C:\Users\haosc\Desktop\WechatAutomationDemo\CustomListCtrl.cpp"
+"C:\Users\haosc\Desktop\WechatAutomationDemo\MdUserApi.cpp"
+"C:\Users\haosc\Desktop\WechatAutomationDemo\TraderSpi.cpp"
+]
+Creating command line "cl.exe @C:\Users\haosc\AppData\Local\Temp\RSPACB4.tmp" 
+Creating temporary file "C:\Users\haosc\AppData\Local\Temp\RSPACB5.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "./ThostTraderApi/" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /D "ISLIB" /Fp"Release/AutomationDemo.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Users\haosc\Desktop\WechatAutomationDemo\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\haosc\AppData\Local\Temp\RSPACB5.tmp" 
+Creating temporary file "C:\Users\haosc\AppData\Local\Temp\RSPACB6.tmp" with contents
+[
+thosttraderapi.lib thostmduserapi.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/AutomationDemo.pdb" /machine:I386 /out:"Release/AutomationDemo.exe" /libpath:"./ThostTraderApi/" 
+.\Release\AutomationDemo.obj
+.\Release\AutomationDemoDlg.obj
+.\Release\ChangePasswordDlg.obj
+.\Release\CustomListCtrl.obj
+.\Release\MdUserApi.obj
+.\Release\StdAfx.obj
+.\Release\TraderSpi.obj
+.\Release\AutomationDemo.res
+]
+Creating command line "link.exe @C:\Users\haosc\AppData\Local\Temp\RSPACB6.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+AutomationDemo.cpp
+AutomationDemoDlg.cpp
+ChangePasswordDlg.cpp
+CustomListCtrl.cpp
+MdUserApi.cpp
+TraderSpi.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+AutomationDemo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
