@@ -7,9 +7,9 @@
 强制的API注入的形式，在调用原生CTPThosTrader之前，先调用Ronhon-API进行帐号，权限等认证，再调用原生的CTP接口的方式。
 
 -所以对于和他们接口对接流程统一都是
--1.首先请提供对应ctp版本的thosttraderapi.dll文件给RH。
--2.RH通过比对该文件提供对应的thosttraderapi.dll与RohonBase.dll文件。
--3.替换CTP的thosttraderapi.dll，并将RohonBase.dll放在同级目录下，并测试登陆。
+- 1.首先请提供对应ctp版本的thosttraderapi.dll文件给RH。
+- 2.RH通过比对该文件提供对应的thosttraderapi.dll与RohonBase.dll文件。
+- 3.替换CTP的thosttraderapi.dll，并将RohonBase.dll放在同级目录下，并测试登陆。
 
 * * *
 ### 预期调试效果 - 1.静态终结果
