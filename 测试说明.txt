@@ -1,0 +1,4 @@
+我们这边对接流程统一都是
+1.?首先请提供对应ctp版本的thosttraderapi.dll文件给我方。
+2.?我方通过比对该文件提供对应的thosttraderapi.dll与RohonBase.dll文件。
+3.?替换CTP的thosttraderapi.dll，并将RohonBase.dll放在同级目录下，并测试登陆。
