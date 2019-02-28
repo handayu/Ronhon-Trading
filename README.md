@@ -14,7 +14,7 @@
 * * *
 ### 预期测试效果 - 1.静态终结果
 *
-![image](https://github.com/handayu/OandaTrading/blob/master/image/backtest.jpg)
+![image](https://github.com/handayu/Ronhon-Trading/blob/master/apitestok.png)
 
 
 ### 预期测试效果 - 2.动态回测过程
